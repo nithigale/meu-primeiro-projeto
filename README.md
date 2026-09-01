@@ -4,5 +4,7 @@
 
 Este é o meu primeiro projeto com Git.
 
-Até o momento aprendi a clonar, editar bl de nt, me localizar, voltar pasta, adicionar email, adicionar nome
+Até o momento, aprendi a clonar um repositório, editar arquivos, me localizar nas pastas, voltar para uma pasta anterior, adicionar meu e-mail e adicionar meu nome ao Git.
+
+
 
